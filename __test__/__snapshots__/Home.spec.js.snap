@@ -1,6 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
 exports[`>>>H O M E --- Snapshot +++capturing Snapshot of Home 1`] = `
 <div
-  className="container">
+  className="container"
+>
   <h2>
     using React and Redux
   </h2>
@@ -8,13 +11,15 @@ exports[`>>>H O M E --- Snapshot +++capturing Snapshot of Home 1`] = `
     Input 1:
     <input
       placeholder="Input 1"
-      type="text" />
+      type="text"
+    />
   </div>
   <div>
     Input 2 :
     <input
       placeholder="Input 2"
-      type="text" />
+      type="text"
+    />
   </div>
   <div>
     Output :
@@ -22,17 +27,20 @@ exports[`>>>H O M E --- Snapshot +++capturing Snapshot of Home 1`] = `
       placeholder="Output"
       readOnly={true}
       type="text"
-      value={10} />
+      value={10}
+    />
   </div>
   <div>
     <button
       id="add"
-      onClick={[Function]}>
+      onClick={[Function]}
+    >
       Add
     </button>
     <button
       id="subtract"
-      onClick={[Function]}>
+      onClick={[Function]}
+    >
       Subtract
     </button>
   </div>
